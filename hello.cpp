@@ -12,6 +12,8 @@ int main() {
     // read("in.txt"); write("out.txt");
 
     cout << "Hello world" << endl;
+    cout << "Hello world part 2" << endl;
+    cout << "Hello world part 3" << endl;
 
     return 0;
 }
