@@ -12,6 +12,10 @@ int main() {
     // read("in.txt"); write("out.txt");
 
     cout << "Hello world" << endl;
+    int x;
+    cin >> x;
+
+    cout << "input was " << x << endl;
 
     return 0;
 }
