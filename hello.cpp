@@ -13,7 +13,10 @@ int main() {
 
     cout << "Hello world" << endl;
     cout << "Hello world part 2" << endl;
-    cout << "Hello world part 3" << endl;
+    int x;
+    cin >> x;
+
+    cout << "input was " << x << endl;
 
     return 0;
 }
